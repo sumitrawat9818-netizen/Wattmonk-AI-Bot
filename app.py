@@ -46,7 +46,7 @@ knowledge_base = setup_knowledge_base()
 # --- 3. INITIALIZE GROK MODEL ---
 llm = ChatXAI(
     xai_api_key=XAI_KEY,
-    model="grok-beta", # You can also use "grok-2"
+    model="grok-2", # You can also use "grok-2"
     temperature=0
 )
 
