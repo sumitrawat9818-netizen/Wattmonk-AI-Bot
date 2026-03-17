@@ -1,6 +1,0 @@
-streamlit
-langchain
-langchain-community
-langchain-groq
-pypdf
-faiss-cpu
